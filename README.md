@@ -68,7 +68,7 @@ This is an order matching system web application that allows users to place orde
 
  # Getting Started
 
- # Deployed Link :https://order-matching-system-omega.vercel.app
+ 
  OR
 
  1. Frontend End
@@ -78,7 +78,7 @@ This is an order matching system web application that allows users to place orde
  Change dir to frontend by command "cd frontend"
  Install any necessary dependencies using npm install.
  Start the application using npm start.
- Access the application at http://localhost:8080 .
+ 
 
  2.Backend 
   Change dir to backend by command "cd backend"
