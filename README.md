@@ -68,8 +68,6 @@ This is an order matching system web application that allows users to place orde
 
  # Getting Started
 
- 
- OR
 
  1. Frontend End
  To use the application, you can follow these steps:
